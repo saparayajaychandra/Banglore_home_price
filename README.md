@@ -4,10 +4,10 @@ This data science project series walks through step by step process of how to bu
 
 ![App Screenshot](https://github.com/saparayajaychandra/Banglore_home_price/blob/main/Screenshot%202023-12-28%20204855.jpg)
 
-- 1.Python
-- 2.Numpy and Pandas for data cleaning
-- 3.Matplotlib for data visualization
-- 4.Sklearn for model building
-- 5.Jupyter notebook, visual studio code and pycharm as IDE
-- 6.Python flask for http server
-- 7.HTML/CSS/Javascript for UI
+* Python
+* Numpy and Pandas for data cleaning
+* Matplotlib for data visualization
+* Sklearn for model building
+* Jupyter notebook, visual studio code and pycharm as IDE
+* Python flask for http server
+* HTML/CSS/Javascript for UI
